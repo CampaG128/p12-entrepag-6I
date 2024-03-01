@@ -25,5 +25,5 @@ https://docs.flutter.dev/cookbook/navigation/navigation-basics
 https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit?pli=1
 a.2130805128
 
-![image](https://github.com/CampaG128/p12-entrepag-6I/assets/143743923/08f6d88b-d56c-4c52-82c3-7b99cbfcb51b)
-![image](https://github.com/CampaG128/p12-entrepag-6I/assets/143743923/4a20caeb-8c5e-4c2b-a927-1c36fd99d21e)
+![image](https://github.com/CampaG128/p12-entrepag-6I/assets/143743923/4364740e-8d61-4c22-b444-607f646ba8be)
+![image](https://github.com/CampaG128/p12-entrepag-6I/assets/143743923/bec85086-2d28-4aeb-9ef5-8fb340f37a59)
